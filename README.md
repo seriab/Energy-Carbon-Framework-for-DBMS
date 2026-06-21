@@ -1,4 +1,4 @@
-# Energy & Carbon Measurement Framework for DBMS
+# An Energy–Carbon Measurement Framework for Sustainable Database Systems
 
 A comprehensive profiling framework designed to benchmark database management systems (DBMS) using the **Yahoo! Cloud Serving Benchmark (YCSB)** while tracking system resource usage, power consumption, and carbon emissions.
 
